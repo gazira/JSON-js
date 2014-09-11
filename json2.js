@@ -486,4 +486,6 @@ if (typeof JSON !== 'object') {
             throw new SyntaxError('JSON.parse');
         };
     }
+
+    module.exports = JSON;
 }());

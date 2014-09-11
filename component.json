@@ -1,0 +1,7 @@
+{
+    "name": "gazira-json",
+    "version": "0.0.1",
+    "main": "json2.js",
+    "dependencies": {
+    }
+}
