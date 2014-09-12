@@ -1,0 +1,1 @@
+ * 给 `json2.js` 增加module.exports
